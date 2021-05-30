@@ -1,2 +1,2 @@
-# odev1
-Patika HTML Odev1
+# Kodluyoruz.org HTML Odev1
+Veli Can Yıldız
